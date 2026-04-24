@@ -38,5 +38,5 @@ Se aprendió a gestionar archivos, permisos y control de acceso en Linux, simula
 ## 🎯 Autor
 
 **Christopher Alessandro Arias Diaz** TSU en Inteligencia Artificial
-LinkedIn: https://linkedin.com/in/christopher-arias-diaz-9335983b1
+* LinkedIn: https://linkedin.com/in/christopher-arias-diaz-9335983b1
 
